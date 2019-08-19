@@ -7,3 +7,8 @@
   - Extraction of particular results from statistical tests
   - Generation of "tables of tables" (Joe's phrasing)
 
+## Functions
+### Vectorization application
+- `vapply`: ***safer*** version of `sapply`, requiring specification of the expected class of output
+- `tapply`: table output
+
